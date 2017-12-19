@@ -10,7 +10,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-webview-bridge-updated": "^1.0.0"
+    "react-native-webview-bridge-updated": "https://github.com/devabx/react-native-webview-bridge.git#eabfa0a9a962a05881e881d1a79b25b8b549da83"
   },
   "peerDependencies": {
     "react": "*",
